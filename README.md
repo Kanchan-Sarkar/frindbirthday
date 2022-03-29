@@ -1,2 +1,2 @@
-# (frindbirthday)[/birthday1.html]
+# [frindbirthday](/birthday1.html)
  
