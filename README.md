@@ -1,2 +1,2 @@
-# frindbirthday
+# frindbirthday[/birthday1.html]
  
